@@ -2,7 +2,7 @@ STORAGE: NONE
 RESTRICTION: == net472
 NUGET
   remote: https://api.nuget.org/v3/index.json
-    FakeItEasy (4.7.1)
+    FakeItEasy (4.8)
     FluentAssertions (5.4.1)
     Xbehave (2.4)
       Xbehave.Core (2.4)
